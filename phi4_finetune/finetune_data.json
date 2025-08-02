@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2017-01-01\nFederal Reserve Interest Rate: 0.65%\nChina CPI YoY: 103.7%\nU.S. CPI: 243.6\nU.S. Dollar Index: 117.79\nCurrent Exchange Rate: 6.8907",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2017-02-01\nFederal Reserve Interest Rate: 0.66%\nChina CPI YoY: 103.5%\nU.S. CPI: 244.0\nU.S. Dollar Index: 116.12\nCurrent Exchange Rate: 6.8694",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2017-03-01\nFederal Reserve Interest Rate: 0.79%\nChina CPI YoY: 103.2%\nU.S. CPI: 243.9\nU.S. Dollar Index: 115.66\nCurrent Exchange Rate: 6.894",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2017-04-01\nFederal Reserve Interest Rate: 0.9%\nChina CPI YoY: 103.2%\nU.S. CPI: 244.2\nU.S. Dollar Index: 114.77\nCurrent Exchange Rate: 6.8876",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2017-05-01\nFederal Reserve Interest Rate: 0.91%\nChina CPI YoY: 103.3%\nU.S. CPI: 244.0\nU.S. Dollar Index: 114.26\nCurrent Exchange Rate: 6.8843",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2017-06-01\nFederal Reserve Interest Rate: 1.04%\nChina CPI YoY: 103.1%\nU.S. CPI: 244.2\nU.S. Dollar Index: 112.76\nCurrent Exchange Rate: 6.8066",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2017-07-01\nFederal Reserve Interest Rate: 1.15%\nChina CPI YoY: 103.0%\nU.S. CPI: 244.2\nU.S. Dollar Index: 111.06\nCurrent Exchange Rate: 6.7694",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2017-08-01\nFederal Reserve Interest Rate: 1.16%\nChina CPI YoY: 103.5%\nU.S. CPI: 245.2\nU.S. Dollar Index: 109.91\nCurrent Exchange Rate: 6.667",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2017-09-01\nFederal Reserve Interest Rate: 1.15%\nChina CPI YoY: 104.1%\nU.S. CPI: 246.4\nU.S. Dollar Index: 108.85\nCurrent Exchange Rate: 6.569",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2017-10-01\nFederal Reserve Interest Rate: 1.15%\nChina CPI YoY: 104.2%\nU.S. CPI: 246.6\nU.S. Dollar Index: 110.89\nCurrent Exchange Rate: 6.6254",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2017-11-01\nFederal Reserve Interest Rate: 1.16%\nChina CPI YoY: 104.2%\nU.S. CPI: 247.3\nU.S. Dollar Index: 111.16\nCurrent Exchange Rate: 6.62",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2017-12-01\nFederal Reserve Interest Rate: 1.3%\nChina CPI YoY: 104.5%\nU.S. CPI: 247.8\nU.S. Dollar Index: 110.88\nCurrent Exchange Rate: 6.5932",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2018-01-01\nFederal Reserve Interest Rate: 1.41%\nChina CPI YoY: 105.2%\nU.S. CPI: 248.9\nU.S. Dollar Index: 108.36\nCurrent Exchange Rate: 6.4233",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2018-02-01\nFederal Reserve Interest Rate: 1.42%\nChina CPI YoY: 106.5%\nU.S. CPI: 249.5\nU.S. Dollar Index: 107.65\nCurrent Exchange Rate: 6.3183",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2018-03-01\nFederal Reserve Interest Rate: 1.51%\nChina CPI YoY: 105.3%\nU.S. CPI: 249.6\nU.S. Dollar Index: 107.95\nCurrent Exchange Rate: 6.3174",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2018-04-01\nFederal Reserve Interest Rate: 1.69%\nChina CPI YoY: 105.1%\nU.S. CPI: 250.2\nU.S. Dollar Index: 107.94\nCurrent Exchange Rate: 6.2967",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2018-05-01\nFederal Reserve Interest Rate: 1.7%\nChina CPI YoY: 104.9%\nU.S. CPI: 250.8\nU.S. Dollar Index: 111.05\nCurrent Exchange Rate: 6.3701",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2018-06-01\nFederal Reserve Interest Rate: 1.82%\nChina CPI YoY: 104.9%\nU.S. CPI: 251.0\nU.S. Dollar Index: 112.84\nCurrent Exchange Rate: 6.4651",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2018-07-01\nFederal Reserve Interest Rate: 1.91%\nChina CPI YoY: 105.2%\nU.S. CPI: 251.2\nU.S. Dollar Index: 113.06\nCurrent Exchange Rate: 6.7164",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2018-08-01\nFederal Reserve Interest Rate: 1.91%\nChina CPI YoY: 105.9%\nU.S. CPI: 251.7\nU.S. Dollar Index: 113.83\nCurrent Exchange Rate: 6.8453",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2018-09-01\nFederal Reserve Interest Rate: 1.95%\nChina CPI YoY: 106.6%\nU.S. CPI: 252.2\nU.S. Dollar Index: 114.08\nCurrent Exchange Rate: 6.8551",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2018-10-01\nFederal Reserve Interest Rate: 2.19%\nChina CPI YoY: 106.8%\nU.S. CPI: 252.8\nU.S. Dollar Index: 114.83\nCurrent Exchange Rate: 6.9191",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2018-11-01\nFederal Reserve Interest Rate: 2.2%\nChina CPI YoY: 106.4%\nU.S. CPI: 252.6\nU.S. Dollar Index: 116.17\nCurrent Exchange Rate: 6.9367",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2018-12-01\nFederal Reserve Interest Rate: 2.27%\nChina CPI YoY: 106.5%\nU.S. CPI: 252.8\nU.S. Dollar Index: 116.21\nCurrent Exchange Rate: 6.8837",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2019-01-01\nFederal Reserve Interest Rate: 2.4%\nChina CPI YoY: 107.0%\nU.S. CPI: 252.6\nU.S. Dollar Index: 114.44\nCurrent Exchange Rate: 6.7863",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2019-02-01\nFederal Reserve Interest Rate: 2.4%\nChina CPI YoY: 108.1%\nU.S. CPI: 253.3\nU.S. Dollar Index: 114.41\nCurrent Exchange Rate: 6.7367",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2019-03-01\nFederal Reserve Interest Rate: 2.41%\nChina CPI YoY: 107.7%\nU.S. CPI: 254.3\nU.S. Dollar Index: 114.78\nCurrent Exchange Rate: 6.7119",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2019-04-01\nFederal Reserve Interest Rate: 2.42%\nChina CPI YoY: 107.8%\nU.S. CPI: 255.2\nU.S. Dollar Index: 114.9\nCurrent Exchange Rate: 6.7161",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2019-05-01\nFederal Reserve Interest Rate: 2.39%\nChina CPI YoY: 107.8%\nU.S. CPI: 255.3\nU.S. Dollar Index: 115.96\nCurrent Exchange Rate: 6.8519",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2019-06-01\nFederal Reserve Interest Rate: 2.38%\nChina CPI YoY: 107.7%\nU.S. CPI: 255.2\nU.S. Dollar Index: 115.43\nCurrent Exchange Rate: 6.8977",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2019-07-01\nFederal Reserve Interest Rate: 2.4%\nChina CPI YoY: 108.1%\nU.S. CPI: 255.8\nU.S. Dollar Index: 115.08\nCurrent Exchange Rate: 6.8775",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2019-08-01\nFederal Reserve Interest Rate: 2.13%\nChina CPI YoY: 108.9%\nU.S. CPI: 256.0\nU.S. Dollar Index: 117.1\nCurrent Exchange Rate: 7.0629",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2019-09-01\nFederal Reserve Interest Rate: 2.04%\nChina CPI YoY: 109.8%\nU.S. CPI: 256.4\nU.S. Dollar Index: 117.33\nCurrent Exchange Rate: 7.1137",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2019-10-01\nFederal Reserve Interest Rate: 1.83%\nChina CPI YoY: 110.8%\nU.S. CPI: 257.2\nU.S. Dollar Index: 116.75\nCurrent Exchange Rate: 7.0961",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2019-11-01\nFederal Reserve Interest Rate: 1.55%\nChina CPI YoY: 111.2%\nU.S. CPI: 257.9\nU.S. Dollar Index: 116.56\nCurrent Exchange Rate: 7.0199",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2019-12-01\nFederal Reserve Interest Rate: 1.55%\nChina CPI YoY: 111.2%\nU.S. CPI: 258.6\nU.S. Dollar Index: 115.91\nCurrent Exchange Rate: 7.0137",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2020-01-01\nFederal Reserve Interest Rate: 1.55%\nChina CPI YoY: 112.8%\nU.S. CPI: 259.1\nU.S. Dollar Index: 115.28\nCurrent Exchange Rate: 6.9184",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2020-02-01\nFederal Reserve Interest Rate: 1.58%\nChina CPI YoY: 113.7%\nU.S. CPI: 259.2\nU.S. Dollar Index: 116.71\nCurrent Exchange Rate: 6.9967",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2020-03-01\nFederal Reserve Interest Rate: 0.65%\nChina CPI YoY: 112.3%\nU.S. CPI: 258.1\nU.S. Dollar Index: 121.03\nCurrent Exchange Rate: 7.0205",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2020-04-01\nFederal Reserve Interest Rate: 0.05%\nChina CPI YoY: 111.3%\nU.S. CPI: 256.0\nU.S. Dollar Index: 123.29\nCurrent Exchange Rate: 7.0708",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2020-05-01\nFederal Reserve Interest Rate: 0.05%\nChina CPI YoY: 110.4%\nU.S. CPI: 255.8\nU.S. Dollar Index: 122.62\nCurrent Exchange Rate: 7.1016",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2020-06-01\nFederal Reserve Interest Rate: 0.08%\nChina CPI YoY: 110.4%\nU.S. CPI: 257.0\nU.S. Dollar Index: 119.68\nCurrent Exchange Rate: 7.0816",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2020-07-01\nFederal Reserve Interest Rate: 0.09%\nChina CPI YoY: 110.0%\nU.S. CPI: 258.4\nU.S. Dollar Index: 118.7\nCurrent Exchange Rate: 7.0041",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2020-08-01\nFederal Reserve Interest Rate: 0.1%\nChina CPI YoY: 111.5%\nU.S. CPI: 259.3\nU.S. Dollar Index: 116.96\nCurrent Exchange Rate: 6.927",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2020-09-01\nFederal Reserve Interest Rate: 0.09%\nChina CPI YoY: 111.7%\nU.S. CPI: 260.0\nU.S. Dollar Index: 116.35\nCurrent Exchange Rate: 6.8106",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2020-10-01\nFederal Reserve Interest Rate: 0.09%\nChina CPI YoY: 111.4%\nU.S. CPI: 260.3\nU.S. Dollar Index: 115.79\nCurrent Exchange Rate: 6.7254",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2020-11-01\nFederal Reserve Interest Rate: 0.09%\nChina CPI YoY: 110.7%\nU.S. CPI: 260.9\nU.S. Dollar Index: 114.1\nCurrent Exchange Rate: 6.6029",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2020-12-01\nFederal Reserve Interest Rate: 0.09%\nChina CPI YoY: 111.5%\nU.S. CPI: 262.0\nU.S. Dollar Index: 111.91\nCurrent Exchange Rate: 6.5393",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2021-01-01\nFederal Reserve Interest Rate: 0.09%\nChina CPI YoY: 112.6%\nU.S. CPI: 262.6\nU.S. Dollar Index: 111.5\nCurrent Exchange Rate: 6.4672",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2021-02-01\nFederal Reserve Interest Rate: 0.08%\nChina CPI YoY: 113.2%\nU.S. CPI: 263.6\nU.S. Dollar Index: 112.03\nCurrent Exchange Rate: 6.4601",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2021-03-01\nFederal Reserve Interest Rate: 0.07%\nChina CPI YoY: 112.7%\nU.S. CPI: 264.8\nU.S. Dollar Index: 113.35\nCurrent Exchange Rate: 6.5109",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2021-04-01\nFederal Reserve Interest Rate: 0.07%\nChina CPI YoY: 112.3%\nU.S. CPI: 266.6\nU.S. Dollar Index: 112.64\nCurrent Exchange Rate: 6.5186",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2021-05-01\nFederal Reserve Interest Rate: 0.06%\nChina CPI YoY: 112.2%\nU.S. CPI: 268.4\nU.S. Dollar Index: 111.23\nCurrent Exchange Rate: 6.4321",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2021-06-01\nFederal Reserve Interest Rate: 0.08%\nChina CPI YoY: 111.8%\nU.S. CPI: 270.7\nU.S. Dollar Index: 111.59\nCurrent Exchange Rate: 6.425",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2021-07-01\nFederal Reserve Interest Rate: 0.1%\nChina CPI YoY: 112.1%\nU.S. CPI: 272.0\nU.S. Dollar Index: 113.07\nCurrent Exchange Rate: 6.4763",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2021-08-01\nFederal Reserve Interest Rate: 0.09%\nChina CPI YoY: 112.2%\nU.S. CPI: 272.8\nU.S. Dollar Index: 113.41\nCurrent Exchange Rate: 6.4768",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2021-09-01\nFederal Reserve Interest Rate: 0.08%\nChina CPI YoY: 112.2%\nU.S. CPI: 273.9\nU.S. Dollar Index: 113.45\nCurrent Exchange Rate: 6.4563",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2021-10-01\nFederal Reserve Interest Rate: 0.08%\nChina CPI YoY: 113.0%\nU.S. CPI: 276.5\nU.S. Dollar Index: 114.08\nCurrent Exchange Rate: 6.4172",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2021-11-01\nFederal Reserve Interest Rate: 0.08%\nChina CPI YoY: 113.4%\nU.S. CPI: 278.8\nU.S. Dollar Index: 115.0\nCurrent Exchange Rate: 6.3889",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2021-12-01\nFederal Reserve Interest Rate: 0.08%\nChina CPI YoY: 113.1%\nU.S. CPI: 280.8\nU.S. Dollar Index: 115.82\nCurrent Exchange Rate: 6.3693",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2022-01-01\nFederal Reserve Interest Rate: 0.08%\nChina CPI YoY: 113.7%\nU.S. CPI: 282.5\nU.S. Dollar Index: 115.05\nCurrent Exchange Rate: 6.3556",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2022-02-01\nFederal Reserve Interest Rate: 0.08%\nChina CPI YoY: 114.3%\nU.S. CPI: 284.5\nU.S. Dollar Index: 115.01\nCurrent Exchange Rate: 6.3436",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2022-03-01\nFederal Reserve Interest Rate: 0.2%\nChina CPI YoY: 114.3%\nU.S. CPI: 287.5\nU.S. Dollar Index: 116.3\nCurrent Exchange Rate: 6.3446",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2022-04-01\nFederal Reserve Interest Rate: 0.33%\nChina CPI YoY: 114.8%\nU.S. CPI: 288.6\nU.S. Dollar Index: 117.17\nCurrent Exchange Rate: 6.431",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2022-05-01\nFederal Reserve Interest Rate: 0.77%\nChina CPI YoY: 114.6%\nU.S. CPI: 291.3\nU.S. Dollar Index: 119.69\nCurrent Exchange Rate: 6.699",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2022-06-01\nFederal Reserve Interest Rate: 1.21%\nChina CPI YoY: 114.6%\nU.S. CPI: 295.1\nU.S. Dollar Index: 120.03\nCurrent Exchange Rate: 6.6952",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2022-07-01\nFederal Reserve Interest Rate: 1.68%\nChina CPI YoY: 115.1%\nU.S. CPI: 294.9\nU.S. Dollar Index: 122.76\nCurrent Exchange Rate: 6.7352",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2022-08-01\nFederal Reserve Interest Rate: 2.33%\nChina CPI YoY: 115.0%\nU.S. CPI: 295.2\nU.S. Dollar Index: 122.33\nCurrent Exchange Rate: 6.8007",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2022-09-01\nFederal Reserve Interest Rate: 2.56%\nChina CPI YoY: 115.3%\nU.S. CPI: 296.4\nU.S. Dollar Index: 125.6\nCurrent Exchange Rate: 7.0195",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2022-10-01\nFederal Reserve Interest Rate: 3.08%\nChina CPI YoY: 115.5%\nU.S. CPI: 298.0\nU.S. Dollar Index: 127.48\nCurrent Exchange Rate: 7.1902",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2022-11-01\nFederal Reserve Interest Rate: 3.78%\nChina CPI YoY: 115.2%\nU.S. CPI: 298.7\nU.S. Dollar Index: 124.86\nCurrent Exchange Rate: 7.1812",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2022-12-01\nFederal Reserve Interest Rate: 4.1%\nChina CPI YoY: 115.1%\nU.S. CPI: 298.8\nU.S. Dollar Index: 122.25\nCurrent Exchange Rate: 6.9717",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2023-01-01\nFederal Reserve Interest Rate: 4.33%\nChina CPI YoY: 116.0%\nU.S. CPI: 300.5\nU.S. Dollar Index: 119.81\nCurrent Exchange Rate: 6.7904",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2023-02-01\nFederal Reserve Interest Rate: 4.57%\nChina CPI YoY: 115.5%\nU.S. CPI: 301.5\nU.S. Dollar Index: 120.34\nCurrent Exchange Rate: 6.838",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2023-03-01\nFederal Reserve Interest Rate: 4.65%\nChina CPI YoY: 115.1%\nU.S. CPI: 301.6\nU.S. Dollar Index: 120.81\nCurrent Exchange Rate: 6.8909",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2023-04-01\nFederal Reserve Interest Rate: 4.83%\nChina CPI YoY: 114.9%\nU.S. CPI: 302.9\nU.S. Dollar Index: 119.37\nCurrent Exchange Rate: 6.8876",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2023-05-01\nFederal Reserve Interest Rate: 5.06%\nChina CPI YoY: 114.8%\nU.S. CPI: 303.3\nU.S. Dollar Index: 119.8\nCurrent Exchange Rate: 6.9854",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2023-06-01\nFederal Reserve Interest Rate: 5.08%\nChina CPI YoY: 114.6%\nU.S. CPI: 304.1\nU.S. Dollar Index: 119.58\nCurrent Exchange Rate: 7.1614",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2023-07-01\nFederal Reserve Interest Rate: 5.12%\nChina CPI YoY: 114.8%\nU.S. CPI: 304.6\nU.S. Dollar Index: 118.41\nCurrent Exchange Rate: 7.1863",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2023-08-01\nFederal Reserve Interest Rate: 5.33%\nChina CPI YoY: 115.1%\nU.S. CPI: 306.1\nU.S. Dollar Index: 120.22\nCurrent Exchange Rate: 7.2486",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2023-09-01\nFederal Reserve Interest Rate: 5.33%\nChina CPI YoY: 115.3%\nU.S. CPI: 307.4\nU.S. Dollar Index: 121.98\nCurrent Exchange Rate: 7.2979",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2023-10-01\nFederal Reserve Interest Rate: 5.33%\nChina CPI YoY: 115.2%\nU.S. CPI: 307.7\nU.S. Dollar Index: 123.79\nCurrent Exchange Rate: 7.3071",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2023-11-01\nFederal Reserve Interest Rate: 5.33%\nChina CPI YoY: 114.7%\nU.S. CPI: 308.1\nU.S. Dollar Index: 121.54\nCurrent Exchange Rate: 7.2226",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2023-12-01\nFederal Reserve Interest Rate: 5.33%\nChina CPI YoY: 114.8%\nU.S. CPI: 308.7\nU.S. Dollar Index: 120.16\nCurrent Exchange Rate: 7.1402",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2024-01-01\nFederal Reserve Interest Rate: 5.33%\nChina CPI YoY: 115.0%\nU.S. CPI: 309.8\nU.S. Dollar Index: 120.58\nCurrent Exchange Rate: 7.1707",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2024-02-01\nFederal Reserve Interest Rate: 5.33%\nChina CPI YoY: 116.2%\nU.S. CPI: 311.0\nU.S. Dollar Index: 121.42\nCurrent Exchange Rate: 7.1935",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2024-03-01\nFederal Reserve Interest Rate: 5.33%\nChina CPI YoY: 115.2%\nU.S. CPI: 312.1\nU.S. Dollar Index: 121.04\nCurrent Exchange Rate: 7.2015",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2024-04-01\nFederal Reserve Interest Rate: 5.33%\nChina CPI YoY: 115.1%\nU.S. CPI: 313.0\nU.S. Dollar Index: 122.51\nCurrent Exchange Rate: 7.2374",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2024-05-01\nFederal Reserve Interest Rate: 5.33%\nChina CPI YoY: 115.1%\nU.S. CPI: 313.1\nU.S. Dollar Index: 122.24\nCurrent Exchange Rate: 7.2327",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2024-06-01\nFederal Reserve Interest Rate: 5.33%\nChina CPI YoY: 114.8%\nU.S. CPI: 313.1\nU.S. Dollar Index: 124.03\nCurrent Exchange Rate: 7.2547",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2024-07-01\nFederal Reserve Interest Rate: 5.33%\nChina CPI YoY: 115.3%\nU.S. CPI: 313.6\nU.S. Dollar Index: 123.72\nCurrent Exchange Rate: 7.2609",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2024-08-01\nFederal Reserve Interest Rate: 5.33%\nChina CPI YoY: 115.8%\nU.S. CPI: 314.1\nU.S. Dollar Index: 122.88\nCurrent Exchange Rate: 7.1475",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2024-09-01\nFederal Reserve Interest Rate: 5.13%\nChina CPI YoY: 115.8%\nU.S. CPI: 314.9\nU.S. Dollar Index: 122.13\nCurrent Exchange Rate: 7.076",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2024-10-01\nFederal Reserve Interest Rate: 4.83%\nChina CPI YoY: 115.6%\nU.S. CPI: 315.6\nU.S. Dollar Index: 123.83\nCurrent Exchange Rate: 7.0881",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2024-11-01\nFederal Reserve Interest Rate: 4.64%\nChina CPI YoY: 114.9%\nU.S. CPI: 316.4\nU.S. Dollar Index: 126.53\nCurrent Exchange Rate: 7.2063",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2024-12-01\nFederal Reserve Interest Rate: 4.48%\nChina CPI YoY: 114.9%\nU.S. CPI: 317.6\nU.S. Dollar Index: 127.81\nCurrent Exchange Rate: 7.2807",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2025-01-01\nFederal Reserve Interest Rate: 4.33%\nChina CPI YoY: 115.6%\nU.S. CPI: 319.1\nU.S. Dollar Index: 129.04\nCurrent Exchange Rate: 7.2957",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2025-02-01\nFederal Reserve Interest Rate: 4.33%\nChina CPI YoY: 115.3%\nU.S. CPI: 319.8\nU.S. Dollar Index: 128.07\nCurrent Exchange Rate: 7.2734",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2025-03-01\nFederal Reserve Interest Rate: 4.33%\nChina CPI YoY: 115.1%\nU.S. CPI: 319.6\nU.S. Dollar Index: 126.49\nCurrent Exchange Rate: 7.2493",
+    "output": "Please predict the expected exchange rate range."
+  },
+  {
+    "instruction": "Based on the following economic data, please forecast the USD/CNY exchange rate range for the next month.",
+    "input": "Date: 2025-04-01\nFederal Reserve Interest Rate: 4.33%\nChina CPI YoY: 115.0%\nU.S. CPI: 320.3\nU.S. Dollar Index: 124.46\nCurrent Exchange Rate: 7.2968",
+    "output": "Please predict the expected exchange rate range."
+  }
+]
